@@ -1,0 +1,142 @@
+[
+  {
+    "employer": "Readlee",
+    "project": "Readlee",
+    "longName": "",
+    "start": "July 2021",
+    "end": "July 2022",
+    "location": "Indianapolis, IN (Remote)",
+    "title": "Software Engineer",
+    "duties": [
+      "Build the Readlee app with React and Typescript",
+      "Write end-to-end tests with TestCafe",
+      "Add API endpoints to the Rails backend",
+      "Find and research tools for building the app, graphs, etc."
+    ],
+    "intro": "Readlee to an education technology company, helping teachers promote literacy in their classes.",
+    "contribution": [
+      "As a software engineer at Readlee, I collaborated with my team to rebuild the app from Flutter to React and facilitate our work.",
+      "I built and shipped various features on the frontend, including data visualizations for student literacy and improvement, various forms, and more."
+    ],
+    "links": [{ "url": "https://www.readlee.com", "str": "Readlee" }]
+  },
+  {
+    "employer": "HackerRank",
+    "project": "HackerRank",
+    "longName": "",
+    "start": "December 2019",
+    "end": "June 2021",
+    "location": "Indianapolis, IN (Remote)",
+    "title": "Software Engineer",
+    "duties": [
+      "Build and ship features with React, Redux and Rails",
+      "Write unit tests to validate work",
+      "Collaborate cross-geo in architecture and design decisions",
+      "Optimize frontend CD with GitHub actions"
+    ],
+    "intro": "HackerRank is a tech interview solution for tech recruiters, giving them tools to facilitate code interviews.",
+    "contribution": [
+      "At HackerRank, my job was to collaborate with the product team to identify priorities, balance our workload, and collaborate with my engineering team to build and ship our product.",
+      "The scale and complexity of our product introduced a number of challenges. To help mitigate those, I often worked to refactor some of our previous work, creating utilities to facilitate future development, and identify opportunities to optimize our CI/CD tools."
+    ],
+    "links": []
+  },
+  {
+    "employer": "Mimir Corp.",
+    "project": "Mimir Corp.",
+    "longName": "",
+    "start": "September 2018",
+    "end": "December 2019",
+    "location": "Indianapolis, IN",
+    "title": "Software Engineer",
+    "duties": [
+      "Build and ship features with React and Rails",
+      "Write integration tests and Ruby unit tests to validate work",
+      "Collaborate in architecture and design decisions"
+    ],
+    "intro": "Mimir Classroom, a product from Mimir, is an app for Computer Science education. Classroom helps instructors create and grade coursework.",
+    "contribution": [
+      "As a software engineer at Mimir, I collaborated with my team of engineers and product designers in planning the architecture of the Classroom app, in addition to designing and building various features.",
+      "During my time at Mimir, I learned how to work with and contribute to a Rails back end, partnered with others to build an IDE for web projects, and pushed various other features."
+    ],
+    "links": [
+      {
+        "url": "https://www.mimirhq.com",
+        "str": "Mimir"
+      }
+    ]
+  },
+  {
+    "employer": "Mortenson Kim",
+    "project": "Mortenson Kim",
+    "longName": "",
+    "start": "July 2017",
+    "end": "July 2018",
+    "location": "Indianapolis, IN",
+    "title": "Front End Developer",
+    "duties": [
+      "Create <bold>automated build tools</bold> to reduce workload up to <bold>25%</bold>",
+      "Collaborate with the digital strategist on a proposal for an <bold>agile</bold> digital product development process",
+      "Build digital marketing materials and Wordpress websites"
+    ],
+    "intro": "MK is a creative agency with offices in Milwaukee and Indianapolis. They've planned marketing campaigns for a number of large clients, which have included Hoosier Lottery, Indianapolis Motor Speedway, and Roche, among others.",
+    "contribution": [
+      "As a Digital Developer at Mortenson Kim, my duties included building animated HTML5 banners, HTML emails, and Wordpress websites.",
+      "My biggest challenge was keeping up with the frantic pace of work, especially during the busy season when I was initially hired. To keep up with the demand, I setup a Webpack configuration, a custom plugin, and some boilerplate code to speed up the process. To further speed things up, I wrote a Photoshop script to speed up the collection of CSS styles."
+    ],
+    "links": [],
+    "hidden": true
+  },
+  {
+    "employer": "Purdue University",
+    "project": "DIA2",
+    "longName": "Deep Insights Anytime Anywhere",
+    "start": "Jan 2015",
+    "end": "May 2016",
+    "location": "West Lafayette, IN",
+    "title": "Front-End Developer / UX Designer",
+    "duties": [
+      "Design and implement a minimal user login and registration workflow",
+      "Design and build a responsive layout for our landing page",
+      "Updated a web-based, interactive data visualisation tool",
+      "Develop production-quality features for usability testing",
+      "Identify and fix usability issues",
+      "Liaison between technical and design teams"
+    ],
+    "intro": "DIA2 is a data visualization tool built for academics at Purdue University. This app allows users to search National Science Foundation records for trends in research, potential collaborators, and more. DIA2 itself is also funded by NSF, and the team has contributed to the body of research in fields including user research and data visualization.",
+    "contribution": [
+      "Working primarily as a front-end developer while pursuing my M.S., I worked all over the stack and collaborated with the design team. Most notably, I designed a minimalist login form and built the backend code for it.",
+      "Other contributions include implementation of a visual design overhaul, updates to tab creation and storage, and a demo functionality, allowing limited functionality for guest users.",
+      "Note: As of August 6th, 2018, I haven't been able to see the app, and don't know whether the tool is still being supported or whether the project is still being funded."
+    ],
+    "links": [],
+    "hidden": true
+  },
+  {
+    "employer": "Purdue University",
+    "project": "Soil Explorer / ISEE",
+    "longName": "Integrating Spatial Educational Experiences",
+    "start": "Aug 2014",
+    "end": "Dec 2014",
+    "location": "West Lafayette, IN",
+    "title": "iOS Developer",
+    "duties": [
+      "Design and develop an interactive, agronomic data visualisation tool",
+      "Design UI elements and interactions",
+      "Implement connection to an ESRI API server",
+      "Implement local storage of downloadable maps"
+    ],
+    "intro": "Built Purdue University's Agronomy Department, ISEE is a web application and iPad app mapping soil data. It's used in Agronomy classes at Purdue, by researchers, and others interested in earth sciences.",
+    "contribution": [
+      "As an iOS developer, I worked on a barebones iPad app for displaying maps with soil data. Using ESRI's tools, I started with an app with a fixed image and baked in legend, and built a more interactive app.",
+      "As the only iOS developer, I faced a number of challenges, including UI, dynamically generated map legends, downloading, storage, and retrieval of additional maps, and interfacing with an ESRI API."
+    ],
+    "links": [
+      {
+        "url": "https://itunes.apple.com/us/app/isee-integrating-spatial-educational/id996159565?mt=8",
+        "str": "ISEE App Store page"
+      }
+    ],
+    "hidden": true
+  }
+]
