@@ -33,7 +33,7 @@
       "Add API endpoints to the Rails backend",
       "Find and research tools for building the app, graphs, etc."
     ],
-    "intro": "Readlee to an education technology company, helping teachers promote literacy in their classes.",
+    "intro": "Readlee is an education technology company, helping teachers promote literacy in their classes.",
     "contribution": [
       "As a software engineer at Readlee, I collaborated with my team to rebuild the app from Flutter to React and facilitate our work.",
       "I built and shipped various features on the frontend, including data visualizations for student literacy and improvement, various forms, and more."
